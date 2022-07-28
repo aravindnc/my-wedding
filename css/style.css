@@ -383,7 +383,7 @@ img {
 	font-weight: bold;
 	font-style: normal;
 	font-size: 60px;
-	margin: 32px 0;
+	margin: 16px 0px;
 	color: #674ea7;
 }
 
@@ -391,9 +391,9 @@ img {
 	font-family: 'Dancing Script', cursive;
 	font-weight: bold;
 	font-style: normal;
-	margin: 0;
+	margin: 16px 0;
 	padding: 0;
-	font-size: 24px;
+	font-size: 40px;
 	color: #e25c67;
 	line-height: 1;
 }
@@ -458,6 +458,7 @@ body {
 
 .title {
 	margin-bottom: 40px;
+	margin-top: 20px;
 }
 
 #time {
@@ -480,9 +481,17 @@ body {
 	margin-right: 8px;
 }
 
+.venue:hover {
+	background-color: #e25c67;
+}
+
 .venue a {
 	text-decoration: none;
 	color: #fff;
+}
+
+.actions a:hover {
+	text-decoration: none;
 }
 
 .custom-container {

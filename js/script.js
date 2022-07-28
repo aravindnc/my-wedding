@@ -7,6 +7,11 @@ $(document).on('click', function(){
     // document.getElementById("my_audio").play();
 });
 
+function googleTranslateElementInit() {
+    new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+  }
+  
+
 var countDownDate = new Date("Sep 12, 2022 11:50:00").getTime();
 
 var x = setInterval(function() {
