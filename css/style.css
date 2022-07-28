@@ -45,6 +45,7 @@ body .overlay {
 @media (orientation: portrait) {
 	body .overlay {
 		height: calc(100%);
+		background-position: 60% 0%;
 	}
 }
 
