@@ -5,7 +5,7 @@
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://wedding.aravindnc.com/"><img src="./assets/img/sonali.jpeg" /></a>
+  <a href="https://wedding.aravindnc.com/"><img src="" /></a>
 </details>
 
 ### Do not forget to leave a star! :hugs:
