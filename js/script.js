@@ -3,9 +3,9 @@
       $('.sakura-falling').sakura();
 })(jQuery);
 
-$(document).on('click', function(){
-    // document.getElementById("my_audio").play();
-});
+// $(document).on('click', function(){
+//    document.getElementById("my_audio").play();
+// });
 
 // function googleTranslateElementInit() {
 //     new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
