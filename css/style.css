@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=family=Montserrat:wght@400;700&display=swap');
+/* font-family: 'Great Vibes', cursive; */
+
 @-webkit-keyframes fall {
 	0% {
 		opacity: 0.9;
@@ -350,7 +353,8 @@
 /*******************************/
 
 body {
-	font-family: Arial, Helvetica, Sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	/* font-family: Arial, Helvetica, Sans-serif; */
 }
 
 img {
@@ -409,7 +413,8 @@ img {
 }
 
 .title h3 {
-	font-weight: 300;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	font-size: 24px;
@@ -444,7 +449,7 @@ img {
 * {
 	/* margin: 0;
     padding: 0; */
-	font-family: 'Arvo', serif;
+	font-family: 'Montserrat', sans-serif;
 }
 
 body {
@@ -488,6 +493,10 @@ body {
 .venue a {
 	text-decoration: none;
 	color: #fff;
+}
+
+.developers{
+	font-size: 10px;
 }
 
 .actions a:hover {
