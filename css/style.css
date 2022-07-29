@@ -180,7 +180,8 @@ p {
 	text-align: center;
 	color: #fff;
 	padding: 8px 14px;
-	margin-right: 8px;
+	margin-right: 4px;
+	margin-left: 4px;
 }
 
 .venue:hover {
