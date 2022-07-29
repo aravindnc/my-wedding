@@ -54,11 +54,11 @@ img {
 	height: auto;
 }
 
-@media (max-width:900px) {
+/* @media (max-width:900px) {
 	img {
 		max-width: 30%;
 	}
-}
+} */
 
 .top-right-decoration {
 	position: absolute;
@@ -154,6 +154,7 @@ body {
 
 p {
 	font-size: 20px;
+	padding: 0px 10px;
 }
 
 .title {
