@@ -311,6 +311,10 @@ a {
     animation-timing-function: ease;
 }
 
+.developers p {
+    font-size: 16px;
+}
+
 button {
     border: none;
     background: transparent;
