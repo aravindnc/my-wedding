@@ -289,3 +289,21 @@ a {
 	font-size: 16px;
 	letter-spacing: 0pt;
 }
+
+@keyframes heartbeat {
+    0%, 100% {
+        color: #ffb3b3
+    }
+
+    35% {
+        color: #ff1a1a
+	}
+}
+
+.developers .heart {
+    color: #ffb3b3;
+    animation-name: heartbeat;
+    animation-duration: 1.42857s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease;
+}
