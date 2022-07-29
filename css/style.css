@@ -26,7 +26,7 @@ body {
 
 body .overlay {
 	position: fixed;
-	background: url("../assets/img/bg-img.jpg") no-repeat center center fixed;
+	background: url("../assets/img/bg-img5.jpg") no-repeat center center fixed;
 	background-size: cover;
 	opacity: 0.2;
 	aspect-ratio: 1;
