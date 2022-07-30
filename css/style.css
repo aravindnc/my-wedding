@@ -320,3 +320,8 @@ button {
     background: transparent;
     cursor: pointer;
 }
+
+#comments{
+	border: 2px solid #674ea7;
+	border-radius: 5px;
+}
