@@ -254,6 +254,10 @@ p {
 	margin: 24px;
 }
 
+.footer a:hover {
+	text-decoration: none;
+}
+
 .phone {
 	color: #874562
 }
