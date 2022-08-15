@@ -331,7 +331,7 @@ button {
 		transform: translate3d(0, 0, 0);
 		}
 	100% {
-		transform: translate3d(-500px, 0, 0);
+		transform: translate3d(-1415px, 0, 0);
 	}	
 }
 
@@ -403,7 +403,7 @@ button {
 		position: absolute;
 		height: 86%;
 		animation: caranimation 30s linear infinite;
-		right: 0px;
+		right: -30%;
 	}
 }
 
