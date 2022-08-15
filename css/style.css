@@ -414,9 +414,10 @@ button {
 	} */
 	.car-animate {
 		position: absolute;
-		height: 70%;
-		animation: caranimation 30s linear infinite;
-		right: 0;
-		bottom: 60px;
+		/* height: 70%; */
+		width: 100%;
+		/* animation: caranimation 30s linear infinite;
+		right: 0; */
+		bottom: 47px;
 	}
 }
