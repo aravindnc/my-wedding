@@ -14,7 +14,7 @@
 }
 
 .sakura {
-	background: #674ea7;
+	background: #7146BA;
 }
 
 /*******************************/
@@ -25,6 +25,9 @@ body {
 
 	background: rgb(116,209,249);
 	background: linear-gradient(0deg, rgba(116,209,249,1) 0%, rgba(237,226,240,1) 100%);
+
+
+	color:#874562;
 }
 
 
@@ -63,7 +66,7 @@ img {
 	font-style: normal;
 	font-size: 60px;
 	margin: 16px 0px;
-	color: #674ea7;
+	color: #7146BA;
 }
 
 .title h2 {
@@ -82,7 +85,7 @@ img {
 	font-weight: bolder;
 	font-style: normal;
 	font-size: 32px;
-	color: #674ea7;
+	color: #7146BA;
 	margin: 16px;
 	text-align: center;
 }
@@ -93,7 +96,7 @@ img {
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	font-size: 30px;
-	color: #674ea7;
+	color: #7146BA;
 	margin-top: 5px;
 }
 
@@ -157,7 +160,7 @@ p {
 .venue {
 	width: auto;
 	height: auto;
-	background-color: #674ea7;
+	background-color: #7146BA;
 	border-radius: 5px;
 	text-align: center;
 	color: #fff;
@@ -312,7 +315,7 @@ button {
 }
 
 #comments{
-	border: 2px solid #674ea7;
+	border: 2px solid #7146BA;
 	border-radius: 5px;
 	width: 50%;
 }
